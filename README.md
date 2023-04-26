@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s-kybound
-- 👀 I’m interested in artificial intelligence, programming languages and learning in general!
-- 🌱 I’m currently taking computer science in NUS, using programming languages such as Rust, Scheme and JavaScript!
+### Hi!
+
+I’m Kyriel, I also go by the moniker @s-kybound (or related derivatives). I'm a Year 2 Computer Science Student @ National University of Singapore; A programmer and learner interested in artificial intelligence, programming languages and the like!
 
 <!---
 s-kybound/s-kybound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
