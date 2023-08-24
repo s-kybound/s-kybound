@@ -4,10 +4,10 @@ I’m Kyriel, I also go by the moniker @s-kybound (or related derivatives). I'm 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 --->
-![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&count_private=true&theme=transparent)
+<!---![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&count_private=true&theme=transparent)
 
 (generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-
+--->
 https://s-kybound.github.io/
 
 <!---
