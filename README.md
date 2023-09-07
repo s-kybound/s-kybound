@@ -1,6 +1,6 @@
 ### Hi!
 
-I’m Kyriel, I also go by the moniker @s-kybound (or related derivatives). I'm a Year 1 Computer Science Student @ National University of Singapore; A programmer and learner interested in artificial intelligence, programming languages and the like!
+I’m Kyriel, I also go by the moniker @s-kybound (or related derivatives). I'm a Year 2 Computer Science Student @ National University of Singapore; A programmer and learner interested in artificial intelligence, programming languages and the like!
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 --->
