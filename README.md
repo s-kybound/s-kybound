@@ -1,6 +1,6 @@
 ### Hi!
 
-I’m Kyriel! I also go by the moniker @s-kybound (or related derivatives, based on the availability of the moniker). I'm a penultimate Computer Science Student @ National University of Singapore; A programmer and learner interested in programming languages, functional programming, parallel programming, linguisticsand the like!
+I’m Kyriel! I also go by the moniker @s-kybound (or related derivatives, based on the availability of the moniker). I'm a penultimate Computer Science Student @ National University of Singapore; A programmer and learner interested in programming languages, functional programming, parallel programming, linguistics and the like!
 
 In my free time, I enjoy building stuff, swimming, cooking and running!
 
