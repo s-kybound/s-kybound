@@ -2,9 +2,11 @@
 
 I’m Kyriel! I also go by the moniker @s-kybound (or related derivatives, based on the availability of the moniker). I'm a penultimate Computer Science Student @ National University of Singapore; A programmer and learner interested in programming languages, functional programming, parallel programming, linguistics and the like!
 
+I am currently on exchange in the United States, at Carnegie Mellon University.
+
 In my free time, I enjoy building stuff, swimming, cooking and running!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kybound&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kybound&layout=donut&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&count_private=true&theme=transparent&rank_icon=github)
 
