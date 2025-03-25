@@ -8,7 +8,7 @@ In my free time, I enjoy building stuff, swimming, cooking and running!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kybound&layout=donut&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&count_private=true&theme=transparent&rank_icon=github)
+![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&show_icons=true&theme=transparent)
 
 (generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 https://s-kybound.github.io/
