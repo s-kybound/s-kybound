@@ -6,9 +6,13 @@ I am currently on exchange in the United States, at Carnegie Mellon University.
 
 In my free time, I enjoy building stuff, swimming, cooking and running!
 
-![Kyriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kybound&hide_rank=true&show_icons=true&theme=transparent)
+<div class='container' style="display: flex; justify-content: center; align-items: center;">
+<img style="height: 200px;" class="img" src="https://github-readme-stats.vercel.app/api?username=s-kybound&hide_rank=true&show_icons=true&theme=transparent" />
+&nbsp;
+&nbsp;
+<img style="height: 200px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-kybound&layout=compact&theme=transparent&langs_count=8" /></div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kybound&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 (generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
